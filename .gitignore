@@ -1,0 +1,15 @@
+.idea
+.project
+*.iml
+.gradle
+.DS_Store
+.vscode
+/target
+*.orig
+logs
+docker_build
+out
+build
+gradle
+gradlew.bat
+application-*.properties
